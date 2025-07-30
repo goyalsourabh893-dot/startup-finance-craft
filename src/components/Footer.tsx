@@ -10,9 +10,9 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">SF</span>
+                <span className="text-primary-foreground font-bold text-lg">AE</span>
               </div>
-              <span className="text-xl font-bold">StrategicFinance</span>
+              <span className="text-xl font-bold">ArthEdge</span>
             </div>
             <p className="text-background/70">
               Expert financial advisory services for growing startups. From seed to scale.
@@ -57,7 +57,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-background/70" />
-                <span className="text-background/70">hello@strategicfinance.co</span>
+                <span className="text-background/70">hello@arthedge.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-background/70" />
@@ -75,7 +75,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-background/70 text-sm">
-            © 2024 Strategic Finance Advisory. All rights reserved.
+            © 2024 ArthEdge Advisors LLP. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm text-background/70">
             <a href="#" className="hover:text-background transition-colors">Privacy Policy</a>
